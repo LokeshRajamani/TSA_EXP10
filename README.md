@@ -73,6 +73,10 @@ plt.show()
 ![318165274-49964701-62a0-451a-9a12-61c6c960cd7c](https://github.com/LokeshRajamani/TSA_EXP10/assets/120544804/f0fdeb40-52d8-48b5-b4e8-0c0033a74580)
 
 
+![o2](https://github.com/LokeshRajamani/TSA_EXP10/assets/120544804/3f0ed58d-f0be-43bf-a41c-890491f6f2eb)
+
+
+
 ![318165416-1738ccc5-7034-41f0-8f61-5d066d0471b5](https://github.com/LokeshRajamani/TSA_EXP10/assets/120544804/530cd699-f9e1-490a-b248-4cbc63f7c945)
 
 
